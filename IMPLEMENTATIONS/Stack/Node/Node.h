@@ -1,0 +1,11 @@
+//
+// Created by kirill on 01.07.23.
+//
+
+#ifndef IMPLEMENTATIONS_STACK_NODE_NODE_H_
+#define IMPLEMENTATIONS_STACK_NODE_NODE_H_
+
+class Node {
+};
+
+#endif//IMPLEMENTATIONS_STACK_NODE_NODE_H_
